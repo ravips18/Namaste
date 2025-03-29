@@ -9,7 +9,7 @@ public class namaste {
 		
 		try {
 
-			System.out.print("Hello Vijay! ");
+			System.out.print("Hello World! ");
 
 		} catch (Exception ex) {
 			
